@@ -58,6 +58,7 @@ Best `alpha`: Selected via GridSearchCV
 
 ## How to run
 git clone https://github.com/MohamedElwan15/From-Data-to-Dollars---Predicting-Insurance-Charges
+
 cd insurance-charges-prediction
 
 ## 🔮 Future Improvements
