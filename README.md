@@ -67,7 +67,8 @@ Explore non-linear models (Random Forest, XGBoost).
 
 Perform feature engineering (interaction terms, polynomial features).
 
-##👤 Author
+## 👤 Author
+
 Developed by Mohamed Elwan.
 
 Part of a machine learning project for predictive modeling.
