@@ -50,7 +50,7 @@ I used **GridSearchCV** with 5-fold cross-validation:
 ```python
 param_grid = {'alpha': np.linspace(0.01, 1, 20)}
 model = GridSearchCV(Ridge(), param_grid=param_grid, cv=5, scoring='r2')
-
+```
 ## 📊 Results
 R² Score (Test Set): 0.65+ ✅ (requirement met)
 Best `alpha`: Selected via GridSearchCV
