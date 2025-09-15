@@ -53,6 +53,7 @@ model = GridSearchCV(Ridge(), param_grid=param_grid, cv=5, scoring='r2')
 ```
 ## 📊 Results
 R² Score (Test Set): 0.65+ ✅ (requirement met)
+
 Best `alpha`: Selected via GridSearchCV
 
 ## How to run
@@ -61,9 +62,12 @@ cd insurance-charges-prediction
 
 ### 🔮 Future Improvements
 Try Lasso Regression for stronger feature selection.
+
 Explore non-linear models (Random Forest, XGBoost).
+
 Perform feature engineering (interaction terms, polynomial features).
 
 ##👤 Author
 Developed by Mohamed Elwan.
+
 Part of a machine learning project for predictive modeling.
