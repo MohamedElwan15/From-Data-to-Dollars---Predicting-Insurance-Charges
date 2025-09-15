@@ -60,7 +60,7 @@ Best `alpha`: Selected via GridSearchCV
 git clone https://github.com/MohamedElwan15/From-Data-to-Dollars---Predicting-Insurance-Charges
 cd insurance-charges-prediction
 
-### 🔮 Future Improvements
+## 🔮 Future Improvements
 Try Lasso Regression for stronger feature selection.
 
 Explore non-linear models (Random Forest, XGBoost).
